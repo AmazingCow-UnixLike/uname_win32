@@ -1,0 +1,21 @@
+[submodule "libs/CoreOS"]
+	path = libs/CoreOS
+	url = https://github.com/AmazingCow-Libs/CoreOS
+[submodule "libs/CoreLog"]
+	path = libs/CoreLog
+	url = https://github.com/AmazingCow-Libs/CoreLog
+[submodule "libs/libtermcolor"]
+	path = libs/libtermcolor
+	url = https://github.com/AmazingCow-Libs/libtermcolor
+[submodule "libs/CoreString"]
+	path = libs/CoreString
+	url = https://github.com/AmazingCow-Libs/CoreString
+[submodule "libs/CoreAssert"]
+	path = libs/CoreAssert
+	url = https://github.com/AmazingCow-Libs/CoreAssert
+[submodule "libs/acow_nt_posix"]
+	path = libs/acow_nt_posix
+	url = https://github.com/AmazingCow-Libs/acow_nt_posix
+[submodule "libs/acow_cpp_goodies"]
+	path = libs/acow_cpp_goodies
+	url = https://github.com/AmazingCow-Libs/acow_cpp_goodies
